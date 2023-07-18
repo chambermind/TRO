@@ -28,7 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-	#logo {
+/* 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
 		min-height: 48px;
@@ -56,7 +56,7 @@ footer, header, hgroup, menu, nav, section {
 			position: absolute;
 			left: 0;
 			top: 0;
-		}
+		} */
 body {
 	line-height: 1;
 }
